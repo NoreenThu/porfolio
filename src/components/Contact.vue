@@ -32,7 +32,8 @@
           data-aos-once="true"
           data-aos-duration="1000"
         >
-          <input
+        <label for="email">noreenthu@gmail.com</label>
+          <!-- <input
             type="text"
             name="user_name"
             v-model="name"
@@ -44,7 +45,7 @@
               'text-light': nightMode,
             }"
             style="transition-delay: 0.2s"
-          />
+          /> -->
         </div>
 
         <div
@@ -53,7 +54,7 @@
           data-aos-once="true"
           data-aos-duration="1000"
         >
-          <input
+          <!-- <input
             type="email"
             name="user_email"
             v-model="email"
@@ -65,7 +66,7 @@
               'text-light': nightMode,
             }"
             style="transition-delay: 0.4s"
-          />
+          /> -->
         </div>
 
         <div
@@ -74,7 +75,7 @@
           data-aos-once="true"
           data-aos-duration="1000"
         >
-          <textarea
+          <!-- <textarea
             name="message"
             v-model="text"
             placeholder="message"
@@ -86,10 +87,10 @@
               'text-light': nightMode,
             }"
             style="transition-delay: 0.6s"
-          ></textarea>
+          ></textarea> -->
         </div>
 
-        <button
+        <!-- <button
           @click.prevent="sendEmail"
           class="mt-1 btn mb-3"
           data-aos="fade"
@@ -98,7 +99,7 @@
           data-aos-offset="50"
         >
           Send
-        </button>
+        </button> -->
       </div>
 
       <Snackbar

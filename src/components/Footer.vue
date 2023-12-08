@@ -6,12 +6,12 @@
           class="col-xl-6 col-bg-6 col-md-6 col-sm-12 pbelow"
           style="color: white;"
         >
-          <span>© 2021 Copyright: Mahy Mohab</span>
+          <!-- <span>© 2021 Copyright: Mahy Mohab</span> -->
         </div>
 
         <div class="col-xl-6 col-bg-6 col-md-6 col-sm-12">
           <div class="text-center">
-            <button
+            <!-- <button
               class="btn btn-outline-secondary mx-2 "
               @click="open('linkedin')"
             >
@@ -34,7 +34,7 @@
               @click="open('resume')"
             >
               <i class="fa fa-file"></i>
-            </button>
+            </button> -->
           </div>
         </div>
       </div>

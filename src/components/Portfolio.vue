@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <div
     class="py-4 p-st"
     :class="{
@@ -418,4 +418,4 @@ export default {
   font-weight: 400;
   opacity: 0.75
 }
-</style>
+</style> -->
